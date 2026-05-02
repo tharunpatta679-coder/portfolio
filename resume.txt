@@ -1,0 +1,11 @@
+Jane Doe
+Futuristic Frontend Developer
+
+Skills: HTML, CSS, JavaScript, React, System Architecture
+
+Experience:
+- Senior UI/UX Developer (2023 - Present)
+- Freelance Creative Coder (2020 - 2023)
+
+Contact: jane.doe@example.com
+Portfolio: www.example.com
